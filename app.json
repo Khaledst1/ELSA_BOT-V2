@@ -1,6 +1,6 @@
 {
   "name": "ELSA_BOT-V2",
-  "description": "تم تطوير البوت بواسطة باتشيرا"
+  "description": "♡: تم تطوير البوت بواسطة ابوهايف♥️",
   "logo": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "ELSA", "ELGAZAR","Elsa","theme bot","multi device","baileys","elsa"],
   "success_url": "/",
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "اسم المطور",
-      "value": "𝒑𝒂𝒕𝒄𝒉𝒆𝒓𝒂&♡:ابوهايف"
+      "value": "𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑"
   },
     "AUTO_STATUS_SAVER": {
       "description": "لا تغيره.",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "رقم المطور يمكن اضافه اكثر من مطور وافصلهم بـ \",\")",
-       "value": "967775302218"
+       "value": "201098906252"
   },
    "SESSION_ID": {
     "description": "كود الجلسه احصل عليه من هنا https://elsa-bott.netlify.app"
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "حقوق الملصقات.",
-     "value": "𝒑𝒂𝒕𝒄𝒉𝒆𝒓𝒂;ابوهايف:♡",
+     "value": "ELSA;MD",
      "required": false 
   },
   "heroku": {
