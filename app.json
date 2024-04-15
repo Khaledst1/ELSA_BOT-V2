@@ -7,8 +7,8 @@
   "stack": "container",
 "env": {
   "OWNER_NAME": {
-  "description": "ابوهايف:♡",
-      "value": "𝒑𝒂𝒕𝒄𝒉𝒆𝒓𝒂˹˼ :"
+  "description": "اسم المطور",
+      "value": "𝒑𝒂𝒕𝒄𝒉𝒆𝒓𝒂&♡:ابوهايف"
   },
     "AUTO_STATUS_SAVER": {
       "description": "لا تغيره.",
