@@ -12,7 +12,7 @@ global.location = 'Sultanpur IN'
 global.gurl = 'https://653d199bb6634.site123.me/' // add your username
 global.sudo = process.env.SUDO || '967775302218'
 global.devs = '967775302218';
-global.website = 'https://chat.whatsapp.com/H7lNIia7rsaDcYSNWrtTGI' "//wa.me/+967775302218"
+global.website = 'https://chat.whatsapp.com/H7lNIia7rsaDcYSNWrtTGI' //wa.me/+967770000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ab4018d27c9929dc12595.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '*『❄️┇❆ 𝐸𝐿𝑆𝐴 𝐵𝑂𝑇-𝑀𝐷 ❆┇❄️』*' : process.env.BOT_NAME,
